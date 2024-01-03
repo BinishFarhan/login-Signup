@@ -1,0 +1,15 @@
+
+    /* Center text and title */
+    .swal2-toast .swal2-title,
+    .swal2-toast .swal2-content {
+        text-align: center !important;
+    }
+    .swal2-toast .swal2-icon {
+        font-size: 3em;
+        margin-bottom: 0.5em;
+    }
+    .swal2-toast .swal2-icon-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    } 
