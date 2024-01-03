@@ -13,3 +13,10 @@
         flex-direction: column;
         align-items: center;
     } 
+#background{
+    height: 100%;
+    width: 100%;
+    background-image: url("https://img.freepik.com/premium-vector/geometric-gradient-technology-background_23-2149110132.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=ais");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
